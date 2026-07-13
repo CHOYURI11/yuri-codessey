@@ -157,5 +157,19 @@ Few-shot 예시(최소 3개) 포함
 <img width="554" height="460" alt="image" src="https://github.com/user-attachments/assets/95831039-3c11-440d-bb0e-7dc1e6d31fb7" />
 
 완성본 보고서 작성(10턴)
+- 서론–이론–사례–결론–출처 순서로 작성
+
+<img width="554" height="344" alt="image" src="https://github.com/user-attachments/assets/b05dd8f8-929c-4856-83d8-0ea483756b0f" />
+
+<img width="545" height="490" alt="image" src="https://github.com/user-attachments/assets/7adf59f1-d984-4e92-a5d0-0bdb4055d8a0" />
+
+
+<img width="552" height="209" alt="image" src="https://github.com/user-attachments/assets/2afc8102-15f3-4314-9d69-59f0ee62cc8c" />
+
+
+<img width="746" height="740" alt="image" src="https://github.com/user-attachments/assets/149838db-4faa-4ee6-867d-cdb5a9be66ff" />
+
+
+
 
 
