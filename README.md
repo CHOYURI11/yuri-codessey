@@ -109,9 +109,11 @@ Few-shot 예시(최소 3개) 포함
 - 
 
 생태건축도시 이론 내용을 1200자로 보고서를 작성(1턴)
+
 <img width="551" height="465" alt="image" src="https://github.com/user-attachments/assets/e61ce028-cf54-4bba-8341-ddc7a4daa178" />
 
 건축학 기반으로 공학적인 내용을 제외(2턴)
+
 <img width="552" height="423" alt="image" src="https://github.com/user-attachments/assets/e125956f-f462-4133-b484-939c97f1b8af" />
 
 
@@ -121,10 +123,12 @@ Few-shot 예시(최소 3개) 포함
 
 
 해외 생태 건축의 사례(4턴)
+
 <img width="546" height="527" alt="image" src="https://github.com/user-attachments/assets/732d8af8-f9f0-4d89-9c4f-1c900b916487" />
 
 
 사례추가 5개를 포함(5턴)
+
 <img width="549" height="439" alt="image" src="https://github.com/user-attachments/assets/82e7980e-3870-4faf-b044-de5ae5c79822" />
 
 보고서의 이론을 500자로 늘려서 작성(6턴)
@@ -133,14 +137,18 @@ Few-shot 예시(최소 3개) 포함
 <img width="552" height="534" alt="image" src="https://github.com/user-attachments/assets/64d00165-2004-40db-b246-3ce6255c0c1a" />
 
 보고서의 이론을 1000자로 늘려서 다시 작성(7턴)
+
 <img width="555" height="483" alt="image" src="https://github.com/user-attachments/assets/4ae9e193-949f-4739-ba8c-70d58125fb26" />
 
 
 대표적 사례의 설명을 각각 5줄로 늘여서 작성(8턴)
 -출처가 축약
+
 <img width="552" height="504" alt="image" src="https://github.com/user-attachments/assets/3a6d31be-6130-4799-aa6a-f20f1e13d856" />
 
+
 이론론은 1000자, 사례 10개, 사례의 특징은 5개씩  출처 추가 정리 (9턴)
+
 
 <img width="554" height="303" alt="image" src="https://github.com/user-attachments/assets/425c9763-7323-479e-9f77-920c79ab68da" />
 
