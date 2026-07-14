@@ -167,6 +167,9 @@ Few-shot 예시(최소 3개) 포함
 <img width="552" height="209" alt="image" src="https://github.com/user-attachments/assets/2afc8102-15f3-4314-9d69-59f0ee62cc8c" />
 
 
+
+보너스 과제(업무의 시각화)
+
 <img width="746" height="740" alt="image" src="https://github.com/user-attachments/assets/149838db-4faa-4ee6-867d-cdb5a9be66ff" />
 
 
